@@ -1,7 +1,7 @@
 fck_leetcode
 ============
 
-LeetCode C++ Solutions
+LeetCode python Solutions
 
 | Title | LeetCode | Source Code | Add Date | Difficulty |
 | ----- | -------- | ----------- | -------- | ---------- |
